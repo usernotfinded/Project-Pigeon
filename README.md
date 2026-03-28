@@ -1,6 +1,6 @@
-# LMFP-162P-EV
+# Project "Pigeon"
 
-**High-durability prismatic LMFP cell for 800V electric vehicles and industrial energy storage**
+**High-durability prismatic LMFP cell for electric vehicles and industrial energy storage**
 
 > *Designed for operators who need batteries that last 15+ years, not headlines about 9-minute charges.*
 
